@@ -1,4 +1,4 @@
-# Viisualization
+# Visualization
 Some random visualiization by me.
 
 ## Tableau:
