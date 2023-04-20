@@ -4,8 +4,8 @@
 HR Dashboard: https://public.tableau.com/app/profile/daniel.lam3000/viz/HRDashboard_16816791592590/HRDashboard?publish=yes
 
 ## Gestalt principles
-**Proximity**: We perceive objects close to each other as belonging to a group.
-**Dashboard**: Place some visuals close together to encourages the users to think that the grouped visuals are in the same context.<br />
+**Proximity**: We perceive objects close to each other as belonging to a group.<br />
+**Dashboard**: Place some visuals close together to encourages the users to think that the grouped visuals are in the same context.
 
 **Similarity**: We seek similarities and differences in objects and link similar objects as belonging to a group.<br />
 **Dashboard**: Apply link of visuals residing in separate locations on a dashboard by using same color (for sales) or shape. Encouraging comparisons of any 
