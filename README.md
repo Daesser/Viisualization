@@ -3,6 +3,20 @@
 ## Tableau:
 HR Dashboard: https://public.tableau.com/app/profile/daniel.lam3000/viz/HRDashboard_16816791592590/HRDashboard?publish=yes
 
+## Basics
+**Cognitive Load**: Amount of mental effort required to interpret information.<br />
+**Clutter**: Things you remove while still perceiving key ideas.<br />
+You want to reduce clutter to reduce user's cogniitive load. <br />
+- Strategic use of contrast e.g.,  pre-attentive attribute (size, shape, orientation, ...)
+- Examples: Avoid 3D vis. -> information skews, gride lines are not necessary in many cases, no sorting of categories, unhelpful
+axes, overuse of bright colors.
+- Know your audience (needs, skill, knowledge, goal)
+- Examples: Analyst: Tool to discover patterns and trens. Sales person: Relevant specific KPIs. Finance Expert: Up to date data.
+- Design for purpose (explore or/and explain)
+- Examples: Cybersecurity: Dynamic visualization. Overview first, zoom, filter on demand. Sales: Static. Explain finidngs, clear
+message. Carefully choose what to show.
+- Aesthetics (use white space, alignment and color)
+
 ## Gestalt principles
 **Proximity**: We perceive objects close to each other as belonging to a group.<br />
 **Dashboard**: Place some visuals close together to encourages the users to think that the grouped visuals are in the same context.
@@ -22,6 +36,17 @@ data in various places.
 
 **Continuity**: Our tendency is to see shapes as continuous to the greatest degree possible. The human eye follows lines, curves or a sequence of shapes to create pathways.<br />
 **Dashboard**: Align things with one another which belong to the same group, e.g, hierarchical structure in matrix table for grouping. 
+
+## Visualization choices
+
+| Data relationship  | Chart             |
+| :----------------  |:-----------------:|
+| Ranking            | bar chart         |
+| Correlation        | Scatter           |  
+| Composition        | Staked column     | 
+| Distribution       | Histogram,box plot|
+| Geospatial         | Maps              |
+| Trend              | Line chart        |
 
 
 ## Story telling
