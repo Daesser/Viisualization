@@ -1,8 +1,8 @@
 # Viisualization
 
 ## Tableau:
-HR Dashboard: https://public.tableau.com/app/profile/daniel.lam3000/viz/HRDashboard_16816791592590/HRDashboard?publish=yes
-
+HR Dashboard: https://public.tableau.com/app/profile/daniel.lam3000/viz/HRDashboard_16816791592590/HRDashboard?publish=yes<br />
+Pattern of Losses Story: https://public.tableau.com/app/profile/daniel.lam3000/viz/PatternofLossesStory_16822783937140/PatternofLosses?publish=yes
 ## Basics
 **Cognitive Load**: Amount of mental effort required to interpret information.<br />
 **Clutter**: Things you remove while still perceiving key ideas.<br />
@@ -50,5 +50,12 @@ data in various places.
 
 
 ## Story telling
+Decision-making is influenced by unconscious and emotional drivers (emotions matter)<br />
+Use a prticular to illuminate the general
+### 3C of Story telling
+Context<br />
+Challenges<br />
+Conclusion<br />
+
 
 
