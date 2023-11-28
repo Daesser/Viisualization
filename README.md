@@ -52,7 +52,7 @@ data in various places.
 ## Story telling
 Decision-making is influenced by unconscious and emotional drivers (emotions matter)<br />
 Use a prticular to illuminate the general
-### 3C of Story telling
+### 3Cs of Story telling
 Context<br />
 Challenges<br />
 Conclusion<br />
